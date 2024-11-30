@@ -41,3 +41,5 @@ The analysis includes the following key visualizations and insights:
 - **Pandas**: Data manipulation and analysis.
 - **Seaborn** & **Matplotlib**: Visualization for understanding data patterns.
 - **Plotly**: Interactive visualizations for deeper exploration.
+
+  Post and recommendation on Medium https://medium.com/@mamigyasi/the-psychology-behind-shopping-trends-insights-from-customer-data-53c155d93182
